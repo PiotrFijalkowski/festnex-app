@@ -1,5 +1,5 @@
-.App {
-  text-align: center;
+*{
+  box-sizing: border-box;
 }
 
 .App-logo {
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+.AppContainer {
+  display: flex;
+}
+.wrapper {
+  width: 100%;
+  height: 100vh;
+  padding: 50px;
 }
