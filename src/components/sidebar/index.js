@@ -15,6 +15,11 @@ const Sidebar = () => {
             Klienci
           </NavLinkButton>
         </NavLink>
+      <NavLink to='/rent'>
+          <NavLinkButton>
+            Wynajem
+          </NavLinkButton>
+        </NavLink>
       </SidebarWrapper>
       
 
